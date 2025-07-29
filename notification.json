@@ -1,13 +1,13 @@
 {
-  "id": "notification-001",
+  "id": "welcome-notification",
   "enabled": true,
-  "title": "Thông báo quan trọng",
-  "message": "Có cập nhật mới hoặc thay đổi chính sách quan trọng. Vui lòng kiểm tra để đảm bảo bạn có thông tin mới nhất.",
-  "type": "info",
+  "title": "Chào mừng đến với AllScript Beta!",
+  "message": "Cảm ơn bạn đã sử dụng AllScript Beta phiên bản 0.2.2. Đây là công cụ tự động hóa thiết kế chuyên nghiệp với nhiều tính năng mạnh mẽ. Hãy khám phá và trải nghiệm những gì AllScript có thể mang lại cho công việc thiết kế của bạn!",
+  "type": "success",
   "showOnStartup": true,
   "dismissible": true,
   "actionUrl": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases",
-  "actionText": "Xem chi tiết",
+  "actionText": "Xem cập nhật mới nhất",
   "createdAt": "2025-01-29T00:00:00.000Z",
   "expiresAt": "2025-12-31T23:59:59.000Z"
 }
