@@ -2,7 +2,7 @@
   "id": "welcome-notification",
   "enabled": true,
   "title": "Chào mừng đến với AllScript Beta!",
-  "message": "Cảm ơn bạn đã sử dụng AllScript Beta phiên bản 0.2.2. Đây là công cụ tự động hóa thiết kế chuyên nghiệp với nhiều tính năng mạnh mẽ. Hãy bắt đầu khám phá những gì AllScript có thể mang lại cho công việc thiết kế của bạn!",
+  "message": "Cảm ơn bạn đã sử dụng AllScript Beta. Đây là công cụ tự động hóa thiết kế chuyên nghiệp với nhiều tính năng mạnh mẽ. Hãy bắt đầu khám phá những gì AllScript có thể mang lại cho công việc thiết kế của bạn!",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
