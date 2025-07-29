@@ -1,0 +1,13 @@
+{
+  "id": "notification-001",
+  "enabled": true,
+  "title": "Thông báo quan trọng",
+  "message": "Có cập nhật mới hoặc thay đổi chính sách quan trọng. Vui lòng kiểm tra để đảm bảo bạn có thông tin mới nhất.",
+  "type": "info",
+  "showOnStartup": true,
+  "dismissible": true,
+  "actionUrl": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases",
+  "actionText": "Xem chi tiết",
+  "createdAt": "2025-01-29T00:00:00.000Z",
+  "expiresAt": "2025-12-31T23:59:59.000Z"
+}
