@@ -9,7 +9,7 @@
   "actionUrl": "",
   "actionText": "",
   "forceUpdate": true,
-  "minRequiredVersion": "0.2.3-beta",
+  "minRequiredVersion": "0.3.27-beta",
   "updateMessage": "Phiên bản mới bắt buộc cần cập nhật để tiếp tục sử dụng.",
   "createdAt": "2025-01-29T00:00:00.000Z",
   "expiresAt": "2025-12-31T23:59:59.000Z"
