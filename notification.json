@@ -1,8 +1,8 @@
 {
   "id": "welcome-notification",
   "enabled": true,
-  "title": "Chào mừng đến với AllScript Beta!",
-  "message": "Cảm ơn bạn đã sử dụng AllScript Beta. Hãy update để trải nghiệm sớm nhất",
+  "title": "Chào mừng đến với AllScript!",
+  "message": "Phần mềm AllScript mang tới giải pháp tự động cho xử lý file in ấn. Hãy trải nghiệm ngay!",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
