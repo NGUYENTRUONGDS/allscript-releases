@@ -1,6 +1,6 @@
 {
   "id": "welcome-notification",
-  "enabled": false,
+  "enabled": true,
   "title": "Chào mừng đến với AllScript!",
   "message": "Phần mềm AllScript mang tới giải pháp tự động cho xử lý file in ấn. Hãy trải nghiệm ngay!",
   "type": "success",
