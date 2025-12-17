@@ -6,7 +6,7 @@
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
-  "actionUrl": "",
+  "actionUrl": "https://www.youtube.com/@AllScriptApp",
   "actionText": "",
   "forceUpdate": true,
   "minRequiredVersion": "1.0.1",
