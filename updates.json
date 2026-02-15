@@ -1,0 +1,13 @@
+{
+  "version": "1.1.0",
+  "releaseDate": "2026-02-15T00:00:00.000Z",
+  "releaseNotes": "<p>Chức năng cập nhật trực tiếp</p>",
+  "installer": {
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.1.0/AllScript-Setup-1.1.0.exe",
+    "sha256": "073c790046ae94172b7a6497d4dfb8160e033674e7856ea9918daddc18a4ac23"
+  },
+  "forceUpdate": false,
+  "minRequiredVersion": "1.1.0",
+  "updateMessage": ""
+}
+
