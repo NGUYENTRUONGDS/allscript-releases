@@ -1,13 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "releaseDate": "2026-02-15T00:00:00.000Z",
   "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá</p>",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.1.0/AllScript-Setup-1.1.0.exe",
-    "sha256": "44baddc1733bf4c14864243243c131d68ef9341dde81507b698c5ddcbcb82818"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.2.0/AllScript-Setup-1.2.0.exe",
+    "sha256": "37b296add4d2a9025ce3a7878d12785396bf25a84472b207fc8c715a0af324f3"
   },
   "forceUpdate": true,
-  "minRequiredVersion": "1.1.0",
+  "minRequiredVersion": "1.2.0",
   "updateMessage": "Cập nhật chức năng template setup + thiết lập cá nhân hoá"
 }
-
