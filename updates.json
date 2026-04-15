@@ -4,7 +4,7 @@
   "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý</p>",
   "installer": {
     "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.3.0/AllScript-Setup-1.3.0.exe",
-    "sha256": "sha256:c96ef75e934eb4e4a837a5f32da9cf4f7ebef11ae428ffa554f7e6b30d649780"
+    "sha256": "c96ef75e934eb4e4a837a5f32da9cf4f7ebef11ae428ffa554f7e6b30d649780"
   },
   "forceUpdate": true,
   "minRequiredVersion": "1.3.0",
