@@ -1,6 +1,6 @@
 {
   "id": "welcome-notification",
-  "enabled": true,
+  "enabled": false,
   "title": "Chào mừng đến với AllScript!",
   "message": "Phiên bản mới AllScript 1.4.0: Cập nhật chức năng template setup, thiết lập cá nhân hoá, Nâng cấp hệ suất xử lý!",
   "type": "success",
