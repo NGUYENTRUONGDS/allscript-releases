@@ -1,0 +1,12 @@
+{
+  "version": "1.4.0",
+  "releaseDate": "2026-02-15T00:00:00.000Z",
+  "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý</p>",
+  "installer": {
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.4.0/AllScript-Setup-1.4.0.exe",
+    "sha256": "fc9ca236c21245ec3c17def8702610780ec631d837d940e8f1ad3442e5dbfb98"
+  },
+  "forceUpdate": true,
+  "minRequiredVersion": "1.4.0",
+  "updateMessage": "Cập nhật chức năng template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý"
+}
