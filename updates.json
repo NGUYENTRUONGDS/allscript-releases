@@ -4,9 +4,9 @@
   "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý</p>",
   "installer": {
     "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.2.0/AllScript-Setup-1.2.0.exe",
-    "sha256": "3385347463f46ff1679991568d25ecb0531425e466a1f061a76f59b7195c8819"
+    "sha256": "0e4925260b0e7c51029d1a0c9c64be02cc59b243b2cfb66acacb8c5f41668be4"
   },
-  "forceUpdate": true,
+  "forceUpdate": false,
   "minRequiredVersion": "1.2.0",
   "updateMessage": "Cập nhật chức năng template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý"
 }
