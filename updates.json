@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "releaseDate": "2026-02-15T00:00:00.000Z",
   "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý</p>",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.2.0/AllScript-Setup-1.2.0.exe",
-    "sha256": "0e4925260b0e7c51029d1a0c9c64be02cc59b243b2cfb66acacb8c5f41668be4"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.2.1/AllScript-Setup-1.2.1.exe",
+    "sha256": "f19c0cfda0e21395d65f099875e1e5ebff6e865e84cd65043041d29b8abd0569"
   },
-  "forceUpdate": false,
-  "minRequiredVersion": "1.2.0",
+  "forceUpdate": true,
+  "minRequiredVersion": "1.2.1",
   "updateMessage": "Cập nhật chức năng template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý"
 }
