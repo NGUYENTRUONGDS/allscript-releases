@@ -7,7 +7,7 @@
   "showOnStartup": true,
   "dismissible": true,
   "actionUrl": "https://www.youtube.com/@AllScriptApp",
-  "actionText": "",
+  "actionText": "Youtube",
   "forceUpdate": true,
   "minRequiredVersion": "1.2.2",
   "updateMessage": "Phiên bản mới bắt buộc cần cập nhật để tiếp tục sử dụng.",
