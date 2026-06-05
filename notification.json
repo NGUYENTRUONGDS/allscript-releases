@@ -2,7 +2,7 @@
   "id": "welcome-notification",
   "enabled": true,
   "title": "Chào mừng đến với AllScript!",
-  "message": "Phiên bản mới AllScript 1.2.2: Cập nhật chức năng template setup, thiết lập cá nhân hoá, Nâng cấp hệ suất xử lý",
+  "message": "Update Version 2.0.0 | Date: 06.06.2026 - 8:00 PM (GMT+7)",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
