@@ -1,8 +1,8 @@
 {
   "id": "welcome-notification",
   "enabled": true,
-  "title": "Chào mừng đến với AllScript!",
-  "message": "Update Version 2.0.0 | Date: 06.06.2026 - 8:00 PM (GMT+7)",
+  "title": "Hệ thống đang nâng cấp",
+  "message": "Trong thời gian nâng cấp có thể xảy ra lỗi ở một số tính năng. Hệ thống sẽ thông báo sau khi nâng cấp hoàn tất, theo dõi fanpage để nhận các thông tin mới nhất",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
