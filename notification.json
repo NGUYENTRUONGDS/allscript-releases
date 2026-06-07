@@ -2,7 +2,7 @@
   "id": "welcome-notification",
   "enabled": true,
   "title": "Chào mừng đến với AllScript!",
-  "message": "Phiên bản mới AllScript 2.0.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng",
+  "message": "Phiên bản mới AllScript 2.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
