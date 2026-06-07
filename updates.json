@@ -1,12 +1,12 @@
 {
-  "version": "1.2.2",
+  "version": "2.0.0",
   "releaseDate": "2026-02-15T00:00:00.000Z",
-  "releaseNotes": "<p>Template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý</p>",
+  "releaseNotes": "<p>Phiên bản mới AllScript 2.0.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng</p>",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v1.2.2/AllScript-Setup-1.2.2.exe",
-    "sha256": "dac7d22675e060f7f9819c380207d1defcccf904118d58299a3c16c2532cad61"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.0.0/AllScript-Setup-2.0.0.exe",
+    "sha256": "f57e774453f8d80583b099aeb442eb4fec545e1768dfca4149b057eb7812d222"
   },
   "forceUpdate": true,
-  "minRequiredVersion": "1.2.2",
-  "updateMessage": "Cập nhật chức năng template setup + thiết lập cá nhân hoá + Nâng cấp hệ suất xử lý"
+  "minRequiredVersion": "2.0.0",
+  "updateMessage": "Phiên bản mới AllScript 2.0.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng"
 }
