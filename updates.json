@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "releaseDate": "2026-02-15T00:00:00.000Z",
   "releaseNotes": "<p>Phiên bản mới AllScript 2.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng</p>",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.0.1/AllScript-Setup-2.0.1.exe",
-    "sha256": "8b29a363e90975dc6f2d034d2e2fc58273687a0ab7c9726d80b71ec839de4237"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.0.2/AllScript-Setup-2.0.2.exe",
+    "sha256": "fd76fe8f40e8dd18d355ca2697b7d300f13d871a2447a4ad8ca7ce670eca7113"
   },
   "forceUpdate": true,
   "minRequiredVersion": "2.0.0",
