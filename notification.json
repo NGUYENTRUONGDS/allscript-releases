@@ -1,7 +1,7 @@
 {
   "id": "welcome-notification",
   "enabled": true,
-  "title": "Phiên bản mới AllScript 2.0.2",
+  "title": "16/06/2026 - Phát hành phiên bản AllScript 2.0.2",
   "message": "Fix lỗi bị ẩn hiển thị tên trong file in & định dạng pdf khuôn bế",
   "type": "success",
   "showOnStartup": true,
