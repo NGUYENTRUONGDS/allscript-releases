@@ -2,12 +2,12 @@
   "id": "welcome-notification",
   "enabled": true,
   "title": "20:00 19/06/2026 - UPDATE HẾ THỐNG & CHÍNH SÁCH SỬ DỤNG",
-  "message": "1. Toàn bộ tài khoản đang sử dụng và đăng ký mới sẽ được kích hoạt gói Pro dùng thử 30 ngày. Sau 30 ngày, tài khoản sẽ tự động chuyển về gói Free không giới hạn.
-2. Gói Free: Không sử dụng được các chức năng thuộc gói Pro.
-3. Gói Pro: Sử dụng được tất cả các chức năng Pro và Free không giới hạn.
-4. Hệ thống Coin: Khi sử dụng các chức năng Pro, hệ thống sẽ trừ số coin tương ứng. Nếu tài khoản đang kích hoạt gói Pro, bạn sẽ không bị trừ coin. Coin không có hạn sử dụng.
-5. Phiên bản v2.1.0: Đây là phiên bản bắt buộc cập nhật.
-6. Truy cập website allscriptapp.com để xem thông tin chi tiết về: điều khoản sử dụng, bảng giá, quyền lợi, thông tin tài khoản người dùng...",
+  "message": "a. Toàn bộ tài khoản đang sử dụng và đăng ký mới sẽ được kích hoạt gói Pro dùng thử 30 ngày. Sau 30 ngày, tài khoản sẽ tự động chuyển về gói Free không giới hạn.
+b. Gói Free: Không sử dụng được các chức năng thuộc gói Pro.
+c. Gói Pro: Sử dụng được tất cả các chức năng Pro và Free không giới hạn.
+d. Hệ thống Coin: Khi sử dụng các chức năng Pro, hệ thống sẽ trừ số coin tương ứng. Nếu tài khoản đang kích hoạt gói Pro, bạn sẽ không bị trừ coin. Coin không có hạn sử dụng.
+e. Đây là phiên bản bắt buộc cập nhật.
+f. Truy cập website allscriptapp.com để xem thông tin chi tiết về: điều khoản sử dụng, bảng giá, quyền lợi, thông tin tài khoản người dùng...",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
