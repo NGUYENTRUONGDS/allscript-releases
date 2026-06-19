@@ -1,12 +1,12 @@
 {
-  "version": "2.0.2",
+  "version": "2.1.0",
   "releaseDate": "2026-02-15T00:00:00.000Z",
-  "releaseNotes": "<p>Phiên bản mới AllScript 2.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng</p>",
+  "releaseNotes": "AllScript - Phiên bản 2.1.0",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.0.2/AllScript-Setup-2.0.2.exe",
-    "sha256": "fd76fe8f40e8dd18d355ca2697b7d300f13d871a2447a4ad8ca7ce670eca7113"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.1.0/AllScript-Setup-2.1.0.exe",
+    "sha256": "1e8ed0b2283f5052883533a20c6827d7b6412d8523eafb2caf404a9bef873249"
   },
   "forceUpdate": true,
-  "minRequiredVersion": "2.0.0",
-  "updateMessage": "Phiên bản mới AllScript 2.0: Triển khai hệ thống xử lý file trực tiếp, nâng cấp toàn diện tốc độ xử lý & tối ưu hoá thao tác người dùng"
+  "minRequiredVersion": "2.1.0",
+  "updateMessage": "NÔI DUNG CẬP NHẬT:\n1. Cập nhật & thay đổi chính sách sử dụng. \n2. Triển khai các gói dịch vụ cá nhân và doanh nghiệp. \n3. Nâng cấp chức năng lưu workflow."
 }
