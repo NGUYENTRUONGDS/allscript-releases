@@ -2,7 +2,7 @@
   "id": "welcome-notification",
   "enabled": true,
   "title": "20:00 19/06/2026 - UPDATE HẾ THỐNG & CHÍNH SÁCH SỬ DỤNG",
-  "message": "a. Toàn bộ tài khoản đang sử dụng và đăng ký mới sẽ được kích hoạt gói Pro dùng thử 30 ngày. Sau 30 ngày, tài khoản sẽ tự động chuyển về gói Free không giới hạn.
+  "message": "a. Toàn bộ tài khoản đang sử dụng và đăng ký mới sẽ được kích hoạt gói Pro thời hạn. Sau khi hết thời hạn, tài khoản sẽ tự động chuyển về gói Free không giới hạn.
 b. Gói Free: Không sử dụng được các chức năng thuộc gói Pro.
 c. Gói Pro: Sử dụng được tất cả các chức năng Pro và Free không giới hạn.
 d. Hệ thống Coin: Khi sử dụng các chức năng Pro, hệ thống sẽ trừ số coin tương ứng. Nếu tài khoản đang kích hoạt gói Pro, bạn sẽ không bị trừ coin. Coin không có hạn sử dụng.
