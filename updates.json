@@ -1,12 +1,12 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "releaseDate": "2026-02-15T00:00:00.000Z",
-  "releaseNotes": "AllScript - Phiên bản 2.1.0",
+  "releaseNotes": "AllScript - Phiên bản 2.1.1",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.1.0/AllScript-Setup-2.1.0.exe",
-    "sha256": "1e8ed0b2283f5052883533a20c6827d7b6412d8523eafb2caf404a9bef873249"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.1.1/AllScript-Setup-2.1.1.exe",
+    "sha256": "181270268afb39df311ac2ee4911242d2ffe9157e6799224f2a061a05340e97d"
   },
   "forceUpdate": true,
-  "minRequiredVersion": "2.1.0",
+  "minRequiredVersion": "2.1.1",
   "updateMessage": "NÔI DUNG CẬP NHẬT:\n1. Cập nhật & thay đổi chính sách sử dụng. \n2. Triển khai các gói dịch vụ cá nhân và doanh nghiệp. \n3. Nâng cấp chức năng lưu workflow."
 }
