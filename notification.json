@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.1.1",
+  "id": "update-AllScript-2.2.0",
   "enabled": true,
-  "title": "AllScript - Phiên bản 2.1.1",
-  "message": "NỘI DUNG CẬP NHẬT:\n1. Cập nhật & thay đổi chính sách sử dụng. \n2. Triển khai các gói dịch vụ cá nhân và doanh nghiệp. \n3. Nâng cấp chức năng lưu workflow.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.2.0",
+  "message": "Nội dung cập nhật:\nNâng cấp và mở rộng hệ thống xuất file in với định dạng PDF 1.7-1.4. Tương thích tốt với các phần mềm hiển thị PDF thông dụng.\nCập nhật ngay tại kiểm tra cập nhật hoặc website.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
