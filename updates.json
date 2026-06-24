@@ -1,12 +1,12 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "releaseDate": "2026-02-15T00:00:00.000Z",
-  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.2.0",
+  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.0",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.2.0/AllScript-Setup-2.2.0.exe",
-    "sha256": "8a7a508efbb7ca7ca23186bcd9bb0cea8f62773a64619928d25ba765576a1920"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.3.0/AllScript-Setup-2.3.0.exe",
+    "sha256": "6fd836aff156460437ef44e07f28ff62e6120e1614885c320e832411c0c41480"
   },
   "forceUpdate": true,
   "minRequiredVersion": "2.1.1",
-  "updateMessage": "Nội dung cập nhật:\nNâng cấp và mở rộng hệ thống xuất file in với định dạng PDF 1.7-1.4. Tương thích tốt với các phần mềm hiển thị PDF thông dụng.\nCập nhật ngay tại kiểm tra cập nhật hoặc website."
+  "updateMessage": ""
 }
