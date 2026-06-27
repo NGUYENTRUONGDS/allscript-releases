@@ -4,7 +4,7 @@
   "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.1",
   "installer": {
     "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.3.1/AllScript-Setup-2.3.1.exe",
-    "sha256": "32b920b364275e46ba5b712e41ac58e281c061073c4b29e97200cf0447187c37"
+    "sha256": "8589d0a2d434500dc830997422eda98601bbdf682d6e86f909961be865d692b2"
   },
   "forceUpdate": true,
   "minRequiredVersion": "2.1.1",
