@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.3.0",
+  "id": "update-AllScript-2.3.1",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.0",
-  "message": "Nội dung cập nhật:\n- Cập nhật chức năng Dàn Xếp Dạng Lưới tại quy cách in bổ sung: Chức năng này khi kết nối vào chức năng dàn file sẽ giới hạn lại phương án dàn với điều kiện dàn các đối tượng cùng góc xoay cũng như không dàn so le đối với dạng tròn.\n- Cập nhật chức năng nâng cao Làm mới dữ liệu cục bộ: Chức năng này có thể xử lý một số tiến trình quá tải.\n- Nâng cấp hệ thống xử lý cục bộ và chuẩn lại phản hồi hệ thống.\n- Fix lỗi: chức năng tạo khuôn bế 1 dao với trường hợp dàn chồng mép.\nCập nhật ngay tại kiểm tra cập nhật hoặc website.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.1",
+  "message": "Nội dung cập nhật:\n1. Nâng cấp Rectangular Auto Bleed: File sau tràn lề giữ nguyên khuôn bế file gốc.\n 2. Fix lỗi dàn file Rectangular Nesting Mirror X \n 3. Cập nhật ngay tại menu: Help -> Check for Updates",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
