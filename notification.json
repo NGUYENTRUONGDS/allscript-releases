@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.3.1",
+  "id": "update-AllScript-2.3.1-2.3.2",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.1",
-  "message": "Nội dung cập nhật:\n1. Nâng cấp Rectangular Auto Bleed: File sau tràn lề giữ nguyên khuôn bế file gốc.\n 2. Fix lỗi dàn file Rectangular Nesting Mirror X. \n 3. Cập nhật ngay tại menu: Help -> Check for Updates.\n 4. Nếu hiện lỗi khi cập nhật tự động: AllScript cannot be closed... Hãy truy cập website allscriptapp.com để tải và cài đặt thủ công.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.1 & 2.3.2",
+  "message": "Nội dung cập nhật:\n1. Nâng cấp Rectangular Auto Bleed: File sau tràn lề giữ nguyên khuôn bế file gốc.\n 2. Fix lỗi dàn file Rectangular Nesting Mirror X. \n 3. Cập nhật ngay tại menu: Help -> Check for Updates.\n 4. Nếu hiện lỗi khi cập nhật tự động: AllScript cannot be closed... Hãy truy cập website allscriptapp.com để tải và cài đặt thủ công.\n 5. Cập nhật 2.3.2: Động bộ hoá vùng an toàn góc.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
