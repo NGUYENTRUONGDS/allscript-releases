@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.3.5",
+  "id": "update-AllScript-2.4.0",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.3.5",
-  "message": "Nội dung cập nhật:\n- Version 2.3.3: Nâng cấp hệ thống tự cân bằng luồng xử lý.\n- Version 2.3.4: Nâng cấp hệ thống xuất file.\n- Version 2.3.5: Fix lỗi điều kiện kích hoạt auto-run node Rectangular Nesting Two-sided.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.4.0",
+  "message": "Nội dung cập nhật:\n- Cập nhật chức năng mới True Shape Nesting & Preview True Shape Nesting (PRO): Có khả năng dàn file theo hình dạng thực như: File chữ L, lục giác, ngôi sao, hộp...\n- Bổ sung chức năng TextOverlay in FILE IN: Cho phép tuỳ chọn font tên file trong FILE IN.\n- Nâng cấp hệ thống xử lý: Các chức năng dàn file vuông, dàn file tròn...\n- Nâng cấp hệ thống nhận diện đa tầng layer file.\n - Xem thêm thông tin chi tiết upgrade tại website.\nThông báo khác: Nhằm đảm bảo luồng xử lý nên phiên bản 2.4.0 là phiên bản bắt buộc cập nhật sau ngày 16/07/2026, người dùng tự chủ động sắp xếp cập nhật phiên bản mới để tránh ảnh hưởng công việc. Hướng dẫn về chức năng mới True Shape Nesting đã được cập nhật tại khoá học AllScript từ cơ bản tới nâng cao.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
