@@ -1,12 +1,12 @@
 {
-  "version": "2.4.0",
+  "version": "2.5.0",
   "releaseDate": "2026-02-15T00:00:00.000Z",
-  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.4.0",
+  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.5.0",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.4.0/AllScript-Setup-2.4.0.exe",
-    "sha256": "50f95015b20b991cee96a61600eba17cef06c49a9cd172138cd5f82d4948cc94"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.5.0/AllScript-Setup-2.5.0.exe",
+    "sha256": "7bbf034a9b1cc51f176c9b21e79d38b6a8de99edf573ebb7adf4c474a4e013e8"
   },
   "forceUpdate": true,
-  "minRequiredVersion": "2.1.1",
+  "minRequiredVersion": "2.5.0",
   "updateMessage": ""
 }
