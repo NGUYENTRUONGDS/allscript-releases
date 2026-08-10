@@ -2,7 +2,7 @@
   "id": "update-AllScript-2.7.0",
   "enabled": true,
   "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.7.0",
-  "message": "Nội dung cập nhật AllScript 2.7.0\n1. Cập nhật luồng xử lý bất đồng bộ & xử lý theo giai đoạn.\n2. Tích hợp node File + node File Multi-page.\n3. Cập nhật chức năng AllScript Chatbot hỗ trợ.\n4. Cập nhật bảng giá coin.",
+  "message": "Nội dung cập nhật AllScript 2.7.0\n1. Cập nhật luồng xử lý bất đồng bộ & xử lý theo giai đoạn.\n2. Tích hợp node File Multi-page vào node File & cập nhật tính năng sắp xếp file cho dàn bấm ghim giữa.\n3. Cập nhật chức năng AllScript Chatbot hỗ trợ.\n4. Cập nhật bảng giá coin.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
