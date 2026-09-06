@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.8.0",
+  "id": "update-AllScript-2.9.0",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.8.0",
-  "message": "Nội dung cập nhật AllScript 2.8.0\nNode Variable Data: Tạo và dàn file in dữ liệu biến đổi.\n[EN] Node Variable Data: Create and variable data print job.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.9.0",
+  "message": "Nội dung cập nhật AllScript 2.9.0\nNode Variable Data: Cập nhật tính năng tạo vùng dữ liệu biến đổi barcode.\n[EN] Node Variable Data: Update to the barcode variable data zone creation feature.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
