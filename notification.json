@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.10.0",
+  "id": "update-AllScript-2.10.1",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.10.0",
-  "message": "Nội dung cập nhật AllScript 2.10.0\nNode Offset: Cập nhật tính năng dàn file in offset.\nTuỳ chỉnh tên file: Tính năng này cho phép người dùng tuỳ chỉnh định dạng tên file tại cài đặt hoặc node.",
+  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.10.1",
+  "message": "Nội dung cập nhật AllScript 2.10.1\n1. True Shape Nesting\n- Thay đổi cơ chế xử lý: Thêm bước kiểm tra và xác nhận viền thiết kế trước khi chạy xử lý.\n- Cơ chế theo dõi tiến trình tối ưu layout & cho phép chốt ngay layout đang có.\n- Tối ưu & nâng cấp thuật toán nesting.\n2. Tối ưu hệ thống tạo tên file tự động.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
