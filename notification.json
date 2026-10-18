@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.11.0",
+  "id": "update-AllScript-2.11.1",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.11.0",
-  "message": "Nội dung cập nhật AllScript 2.11.0\n1. Tối ưu thuật toán chuyển đổi chế độ view file multi-page.\n2. Thêm tính năng File Edit: Chỉnh sửa kích thước file, chỉnh sửa độ phân giải hình ảnh, convert file.\n3. Thêm tính năng Export Setup: Tuỳ chỉnh xuất file theo cụm, theo tờ, tuỳ chỉnh hình thức dàn.\n4. Nâng cấp node offset: Thêm tính năng hiện color bar & định vị chồng màu cho bài in.\n5. Nâng cấp hệ thống xử lý dàn file.\n6. Nâng cấp tràn lề tự động: thêm tính năng bỏ lẹm mép (dùng để loại bỏ các lỗi lẹm mép trắng khi xuất file).\n7. Nâng cấp chỉnh thứ tự file: Thêm 2 option tuỳ chỉnh đảo thứ tự từng cặp & xen kẻ mặt trước sau.\n8. Fix một số lỗi phát sinh.",
+  "title": "THÔNG BÁO CẬP NHẬT 19/10/2026 - ALLSCRIPT 2.11.1",
+  "message": "Nội dung cập nhật AllScript 2.11.1\n1. Thông luồng thiết lập xuyên file cache.\n2. Tuỳ chọn cùng nội dung thiết kế cho in 2 mặt\n3. Fix lỗi hệ thống chạy tự động.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,

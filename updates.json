@@ -1,10 +1,10 @@
 {
-  "version": "2.11.0",
+  "version": "2.11.1",
   "releaseDate": "2026-09-27T00:00:00.000Z",
-  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.11.0",
+  "releaseNotes": "THÔNG BÁO CẬP NHẬT - ALLSCRIPT 2.11.1",
   "installer": {
-    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.11.0/AllScript-Setup-2.11.0.exe",
-    "sha256": "30a5a389bfc63811c6c05f08f0e3bf80e6438b258f8bad2f99c395cd8598ed2c"
+    "url": "https://github.com/NGUYENTRUONGDS/allscript-releases/releases/download/v2.11.1/AllScript-Setup-2.11.1.exe",
+    "sha256": "67179eeb2294ef21062bddb64b343d8ca53245b2548eb43a3f23078bfa00a0ff"
   },
   "forceUpdate": true,
   "minRequiredVersion": "2.11.0",
