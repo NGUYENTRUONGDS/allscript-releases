@@ -2,7 +2,7 @@
   "id": "update-AllScript-2.11.1",
   "enabled": true,
   "title": "THÔNG BÁO CẬP NHẬT 19/10/2026 - ALLSCRIPT 2.11.1",
-  "message": "Nội dung cập nhật AllScript 2.11.1\n1. Thông luồng thiết lập xuyên file cache.\n2. Tuỳ chọn cùng nội dung thiết kế cho in 2 mặt\n3. Fix lỗi hệ thống chạy tự động.",
+  "message": "Nội dung cập nhật AllScript 2.11.1\n1. Thông luồng thiết lập xuyên file cache.\n2. Tuỳ chọn cùng nội dung thiết kế cho in 2 mặt.\n3. Fix lỗi hệ thống chạy tự động.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
