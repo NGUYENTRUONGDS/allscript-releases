@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.11.1",
+  "id": "update-AllScript-2.12.0",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT 19/10/2026 - ALLSCRIPT 2.11.1",
-  "message": "Nội dung cập nhật AllScript 2.11.1\n1. Thông luồng thiết lập xuyên file cache.\n2. Tuỳ chọn cùng nội dung thiết kế cho in 2 mặt.\n3. Fix lỗi hệ thống chạy tự động.",
+  "title": "THÔNG BÁO CẬP NHẬT 25/10/2026 - ALLSCRIPT 2.12.0",
+  "message": "Nội dung cập nhật\n1. Chức năng mới kiểm tra file in tự động.\n2. Bổ sung chức năng file in dữ liệu biến đổi 2 mặt, dữ liệu biến đổi hình ảnh, link file.\n3. Chức năng mới thiết lập chuẩn file xuất, chuẩn file khuôn saga, avitech...\n4. Thêm luồng đăng nhập google.\n5. Nâng cấp hệ thống đa luồng xử lý.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
