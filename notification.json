@@ -1,8 +1,8 @@
 {
-  "id": "update-AllScript-2.13.0",
+  "id": "update-AllScript-2.14.0",
   "enabled": true,
-  "title": "THÔNG BÁO CẬP NHẬT 30/10/2026 - ALLSCRIPT 2.13.0",
-  "message": "Nội dung cập nhật\n1. Tối ưu hoá bộ nhớ xử lý.\n2. Nâng cấp hệ thống xử lý đa tầng.",
+  "title": "THÔNG BÁO 9/11/2026 - ALLSCRIPT 2.14.0",
+  "message": "Nội dung cập nhật:\n1. Mode Design: Vùng xử lý thiết kế.\n2. Nâng cấp bảo mật.",
   "type": "success",
   "showOnStartup": true,
   "dismissible": true,
